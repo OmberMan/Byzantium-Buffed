@@ -20,7 +20,7 @@
 		"favoredReligion": "Christianity",
 		"uniqueName": "Patriarchate of Constantinople",
 		"uniques": ["May choose [1] additional belief(s) of any type when [founding] a religion", "[+2 Faith, +1 Culture] from all [cityStrength] buildings", "[+33]% City Strength from defensive buildings <in cities with a [Palace]>", "[+2 Faith, +1 Culture] from [Citadel] tiles [in all cities]", "[+2 Faith, +1 Culture] from [Fort] tiles [in all cities]", "[-50]% Gold cost of upgrading <for [All] units> <during a Golden Age>"],
-
+                "uniqueText": "May choose 1 additional belief when founding a religion. Defensive buildings yield +2 [Faith] & +1 [Culture], and are 33% more effective in the capital. Units upgrade for half price during Golden Ages.",
 		"cities": ["Constantinople", "Adrianople", "Nicaea", "Antioch", "Varna", "Ohrid", "Nicomedia", "Trebizond", "Cherson", "Sardica",
 			"Ani", "Dyrrachium", "Edessa", "Chalcedon", "Naissus", "Bari", "Iconium", "Prilep", "Samosata", "Kars", "Nicopolis", "Theodosiopolis",
 			"Tyana", "Gaza", "Kerkyra", "Phoenice", "Selymbria", "Sillyon", "Chrysopolis", "Vodena", "Caesarea", "Traianoupoli", "Constantia", "Athens",
