@@ -5,6 +5,7 @@
 		"adjective": ["Byzantine"],
 		"startBias": ["Coast"],
 		"preferredVictoryType": "Cultural",
+                "style": "Mediterranean",
 
         "startIntroPart1": "",
         "startIntroPart2": "",
