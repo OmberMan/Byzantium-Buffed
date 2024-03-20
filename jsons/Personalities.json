@@ -1,0 +1,14 @@
+[
+{
+                "name": "Theodora",
+                "preferredVictoryType": "Neutral",
+                "food": 5,
+                "production": 4,
+                "gold": 6,
+                "culture": 7,
+                "science": 6,
+                "faith": 9,
+                "military": 7,
+                "warMongering": 5
+        },
+]
