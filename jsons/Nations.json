@@ -2,6 +2,7 @@
 {
 		"name": "Byzantium",
 		"leaderName": "Theodora",
+	        "personality": "Theodora",
 		"adjective": ["Byzantine"],
 		"startBias": ["Coast"],
 		"preferredVictoryType": "Cultural",
