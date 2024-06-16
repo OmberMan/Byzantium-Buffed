@@ -1,7 +1,7 @@
 [
 {
                 "name": "Theodora",
-                "preferredVictoryType": "Neutral",
+                "preferredVictoryType": "Culture",
                 "food": 5,
                 "production": 4,
                 "gold": 6,
@@ -9,6 +9,12 @@
                 "science": 6,
                 "faith": 9,
                 "military": 7,
-                "warMongering": 5
+                //"warMongering": 5
+"aggressive": 4,
+      "declareWar": 5,
+      "commerce": 7,
+      "diplomacy": 7,
+      "loyal": 6,
+      "expansion": 8,
         },
 ]
